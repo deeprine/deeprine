@@ -23,6 +23,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a383724@gmail.com)](mailto:a383724@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/id_castle_list/?hl=ko)](https://www.instagram.com/id_castle_list/?hl=ko)
 
-#### TSTORY - https://machineindeep.tistory.com/
+#### TISTORY - https://machineindeep.tistory.com/
 
 #### DACON - https://dacon.io/myprofile/410449/home/
