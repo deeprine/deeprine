@@ -1,8 +1,5 @@
 :wave: Hello My name is LeeYongSeong
 
-<!--
-**YongSeongLee25/YongSeongLee25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### :bulb: Current Interests
 - Computer Vision - 2D/3D Pose skeletons
 - ML/DL
