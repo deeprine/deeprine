@@ -17,3 +17,10 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-543DE0?style=plastic&logo=PostgreSQL&logoColor=white)
 ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F7DF1E?style=plastic&logo=JavaScript&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-FCC6247?style=plastic&logo=Linux&logoColor=white)
+
+### :mailbox_with_mail: Contacts or blog
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a383724@gmail.com)](mailto:a383724@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/id_castle_list/?hl=ko)](https://www.instagram.com/id_castle_list/?hl=ko)
+
+BLOG
