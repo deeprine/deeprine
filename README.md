@@ -13,4 +13,5 @@
 
 ### :cyclone: Languages
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-0696D7?style=plastic&logo=JavaScript&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-4479A1?style=plastic&logo=MySQL&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-%E2%98%85%E2%98%85%E2%98%85%E2%98%86%E2%98%86-F7DF1E?style=plastic&logo=JavaScript&logoColor=white)
