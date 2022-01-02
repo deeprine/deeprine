@@ -25,5 +25,4 @@ majored in data science at Kangnam University
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/id_castle_list/?hl=ko)](https://www.instagram.com/id_castle_list/?hl=ko)
 
 #### DACON - https://dacon.io/myprofile/410449/home/
-- " I'm looking for someone to participate in the DACON AI competition with.
-Please contact me. "
+- " DACON 대회에 같이 참여하실분은 연락주시면 감사하겠습니다! "
