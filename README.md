@@ -22,9 +22,8 @@ majored in data science at Kangnam University
 ### :mailbox_with_mail: Contacts or blog
 
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:leeyongseong1996@naver.com)](mailto:leeyongseong1996@naver.com)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:a383724@gmail.com)](mailto:a383724@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/id_castle_list/?hl=ko)](https://www.instagram.com/id_castle_list/?hl=ko)
 
-#### TISTORY - https://machineindeep.tistory.com/
-
 #### DACON - https://dacon.io/myprofile/410449/home/
+- " I'm looking for someone to participate in the competition with.
+Please contact me. "
