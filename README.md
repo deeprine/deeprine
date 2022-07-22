@@ -29,12 +29,12 @@ majored in data science at Kangnam University
 #### Competition
   |Competition|Competition name|Rank|percentile|
   |---|------|----|----|
-  |Dacon|2020 D CUP Google Analytics 데이터 경진대회|25/103|25%|
-  |Dacon|시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회|61/418|15%|
+  |Dacon|[2020 D CUP Google Analytics 데이터 경진대회](https://github.com/deeprine/DACON_daconcup)|25/103|25%|
+  |Dacon|[시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회](https://github.com/deeprine/DACON_LG)|61/418|15%|
   |Dacon|HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회|103/177|58%|
   |Dacon|Samsung AI Challenge for Scientific Discovery|132/220|60%|
-  |Dacon|2021 농산물 가격예측 AI 경진대회|11/210|6%|
+  |Dacon|[2021 농산물 가격예측 AI 경진대회](https://github.com/deeprine/DACON_agricultural_products)|11/210|6%|
   |Dacon|물류 유통량 예측 경진대회|107/237|45%|
   |Dacon|[KNOW기반 직업 추천 알고리즘 경진대회](https://github.com/deeprine/DACON_KNOW-based-job-recommendation)|7/360|2%|2차 평가|
-  |Dacon|잡케어 추천 알고리즘 경진대회|36/728|4%|
+  |Dacon|[잡케어 추천 알고리즘 경진대회](https://github.com/deeprine/DACON_JopCare)|36/728|4%|
   |Dacon|Computer Vision 이상치 탐지 알고리즘 경진대회|87/481|19%|
