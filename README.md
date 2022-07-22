@@ -35,6 +35,6 @@ majored in data science at Kangnam University
   |Dacon|Samsung AI Challenge for Scientific Discovery|132/220|60%|
   |Dacon|2021 농산물 가격예측 AI 경진대회|11/210|6%|
   |Dacon|물류 유통량 예측 경진대회|107/237|45%|
-  |Dacon|KNOW기반 직업 추천 알고리즘 경진대회|7/360|2%|2차 평가|
+  |Dacon|[KNOW기반 직업 추천 알고리즘 경진대회](https://github.com/deeprine/DACON_KNOW-based-job-recommendation)|7/360|2%|2차 평가|
   |Dacon|잡케어 추천 알고리즘 경진대회|36/728|4%|
   |Dacon|Computer Vision 이상치 탐지 알고리즘 경진대회|87/481|19%|
