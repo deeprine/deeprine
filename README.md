@@ -10,6 +10,7 @@ majored in data science at Kangnam University
 - Computer Vision - 2D/3D Pose Estimation
 - Anomaly Detection
 - ML/DL
+- Data Analysis
 
 
 ### :cyclone: Languages
