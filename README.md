@@ -33,7 +33,7 @@ majored in data science at Kangnam University
 
 #### Competition
   |Competition|Competition name|Rank|percentile|Team|
-  |---|------|----|----|
+  |---|------|----|----|----|
   |Dacon|[2020 D CUP Google Analytics 데이터 경진대회](https://github.com/deeprine/DACON_daconcup)|25/103|25%|개인|
   |Dacon|[시스템 품질 변화로 인한 사용자 불편 예지 AI 경진대회](https://github.com/deeprine/DACON_LG)|61/418|15%|외 3명|
   |Dacon|HAICon2021 산업제어시스템 보안위협 탐지 AI 경진대회|103/177|58%|개인|
