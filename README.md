@@ -44,4 +44,4 @@ majored in data science at Kangnam University
   |Dacon|[잡케어 추천 알고리즘 경진대회 (2021)](https://github.com/deeprine/DACON_JopCare)|36/728|4%|외 2명|
   |Dacon|Computer Vision 이상치 탐지 알고리즘 경진대회 (2022)|87/481|19%|개인|
   |Dacon|[팔당댐 홍수 안전운영에 따른 한강 수위예측 AI 경진대회 (2022)](https://github.com/deeprine/Dacon_paldang_dam)|36/308|12%|개인|
-  |Dacon|월간 데이콘 신용카드 사기 거래 탐지 AI 경진대회 (2022)|58/740|8%|개인|
+  |Dacon|[월간 데이콘 신용카드 사기 거래 탐지 AI 경진대회 (2022)](https://github.com/deeprine/Dacon_Credit-card-fraud-detection)|58/740|8%|개인|
