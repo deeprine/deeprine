@@ -12,7 +12,6 @@ majored in data science at Kangnam University
 
 ### :bulb: Current Interests
 - Computer Vision - 2D/3D Human Pose Estimation
-- Anomaly Detection
 - ML/DL
 - Data Analysis
 
