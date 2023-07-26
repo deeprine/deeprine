@@ -5,10 +5,10 @@ majored in data science at Kangnam University
 
 ### :wave: Experience
 - NextDoor(2021/03 ~ ing)
-  - Human Pose Estimation research, Data Preprocessing, Data Analysis
+  - Computer Vision research, Data Preprocessing, Data Analysis
 
 ### :bulb: Current Interests
-- Computer Vision - 2D/3D Human Pose Estimation
+- Computer Vision - 2D/3D Human Pose Estimation, Object Detection, OCR, Diffusion
 - ML/DL
 - Data Analysis
 
