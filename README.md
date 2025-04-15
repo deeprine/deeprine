@@ -9,8 +9,12 @@
 
 ### :cyclone: Skills
 - Python
+- C++
 - JavaScript
 - Pytorch
+- Libtorch
+- TensorRT
+- TFLite
 - Ubuntu
 - MySQL
 
