@@ -20,4 +20,5 @@
 
 ### :mailbox_with_mail: Contacts or blog
 
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:leeyongseong1996@naver.com)](mailto:leeyongseong1996@naver.com)
+1. leeyongseong1996@naver.com
+2. a383724@gmail.com
