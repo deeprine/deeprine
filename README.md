@@ -20,5 +20,5 @@
 
 ### :mailbox_with_mail: Contacts or blog
 
-1. leeyongseong1996@naver.com
-2. a383724@gmail.com
+Naver - leeyongseong1996@naver.com
+Google - a383724@gmail.com
