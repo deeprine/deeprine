@@ -2,7 +2,7 @@
 
 
 ### :bulb: Current Interests
-- Computer Vision - 2D/3D Human Pose Estimation, Human 3D mesh, Object Detection, OCR, Diffusion
+- Computer Vision(2D/3D Human Pose Estimation, Human 3D mesh, Object Detection, OCR, Diffusion, image Restoration)
 - ML/DL
 - Data Analysis
 
