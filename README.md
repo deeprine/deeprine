@@ -10,6 +10,7 @@
 ### :cyclone: Skills
 - Python
 - C++
+- C#
 - JavaScript
 - Pytorch
 - Libtorch
